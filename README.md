@@ -17,3 +17,6 @@ Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-neon.svg" alt="Snake animation" />
+</p>
