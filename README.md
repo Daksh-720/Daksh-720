@@ -15,26 +15,7 @@ Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Daksh-720&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📊 GitHub Profile Summary
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSushant03&theme=tokyonight" alt="Profile Summary"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSushant03&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSushant03&theme=tokyonight" alt="Most Commit Language"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSushant03&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSushant03&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  
-</div>
 
-## 📊 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSushant03&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
 
 
 
