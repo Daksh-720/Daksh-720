@@ -21,4 +21,8 @@ Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/Daksh-720/Daksh-720/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daksh-720/Daksh-720/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daksh-720/Daksh-720/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daksh-720/Daksh-720/output/github-contribution-grid-snake.svg">
+</picture>
