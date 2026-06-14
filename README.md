@@ -21,7 +21,4 @@ Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-## Contribution Snake
-
 ![snake gif](https://github.com/Daksh-720/Daksh-720/blob/output/github-contribution-grid-snake.svg)
