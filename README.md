@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year right now)<br>HTML, CSS, JAVASCRIPT, JAVA, REACT.js<br>Web Development<br>Full-Stack
+Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year right now)<br>HTML, CSS, JAVASCRIPT, JAVA, REACT.js, MySQL, C, Tailwind Css<br>Web Development<br>Full-Stack
 
 
 ## 🌐 Socials:
