@@ -11,7 +11,7 @@ Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year 
 <br/><br>
   <a href="mailto:dakshsalvi59@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
-    <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Drop%20a%20Mail-000000?style=for-the-badge&logoColor=white&labelColor=000000"/>
   </a>
 
 
