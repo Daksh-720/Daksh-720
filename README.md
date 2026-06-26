@@ -2,8 +2,7 @@
 Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year right now)<br>HTML, CSS, JAVASCRIPT, JAVA, REACT.js, MySQL, C, Tailwind Css<br>Web Development<br>Full-Stack
 
 
-## 🌐 Socials:
-<h2>Connect with Me!!</h2>
+## 🌐 Socials:<h2>Connect with Me!!</h2>
   <a href="https://www.linkedin.com/in/daksh-salvi-1727133a6/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://img.shields.io/badge/Link%20with%20Me-0A66C2?style=for-the-badge&logoColor=white&labelColor=000000"/>
