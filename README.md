@@ -1,7 +1,6 @@
 <h2 align="center">💫 About Me</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=07405E&center=true&vCenter=true&width=600&lines=CSE+Student+%40+SVKM+Bhagubhai;Diploma+Student+%E2%80%94+2nd+Year;Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Java+%7C+React;MySQL+%7C+Tailwind+CSS+%7C+C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=07405E&center=true&vCenter=true&width=600&lines=Daksh+S.+Salvi+%E2%80%94+CSE+Student+%40+SVKM+Bhagubhai;Diploma+Student+%E2%80%94+2nd+Year;Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Java+%7C+React;MySQL+%7C+Tailwind+CSS+%7C+C" alt="Typing SVG" />
 </p>
 
 <table align="center">
