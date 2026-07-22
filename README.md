@@ -1,5 +1,27 @@
-# 💫 About Me:
-Computer Engineer Student at SVKM Bhagubai College<br>Diploma Student (2nd year right now)<br>HTML, CSS, JAVASCRIPT, JAVA, REACT.js, MySQL, C, Tailwind Css<br>Web Development<br>Full-Stack
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=07405E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+SVKM+Bhagubhai;Diploma+Student+%E2%80%94+2nd+Year;Full-Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Java+%7C+React;MySQL+%7C+Tailwind+CSS+%7C+C" alt="Typing SVG" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>🎓</td>
+    <td><b>Computer Engineering Student</b> at SVKM Bhagubhai Mafatlal Polytechnic</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><b>Diploma Student</b> — 2nd Year</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>Skilled in <b>HTML, CSS, JavaScript, Java, React.js, MySQL, C, Tailwind CSS</b></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Passionate about <b>Web Development</b> & <b>Full-Stack Engineering</b></td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:<h2>Connect with Me!!</h2>
