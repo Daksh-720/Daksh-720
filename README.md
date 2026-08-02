@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:<h2>Connect with Me!!</h2>
-  <a href="https://www.linkedin.com/in/daksh-salvi-1727133a6/">
+  <a href="https://www.linkedin.com/in/daksh-salvi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <img src="https://img.shields.io/badge/Link%20with%20Me-0A66C2?style=for-the-badge&logoColor=white&labelColor=000000"/>
   </a>
